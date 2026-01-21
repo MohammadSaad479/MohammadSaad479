@@ -2,7 +2,7 @@
 
 ### **Full Stack Developer | UI/UX Enthusiast | Problem Solver**
 
-I specialize in building scalable web applications with modern technologies. Passionate about creating clean, efficient code and transforming complex problems into intuitive user experiences.
+I build interactive web applications using  TypeScript, React,  Tailwind CSS and  Next.js with a strong focus on UI design. I’m passionate about creating seamless user experiences and driven by a sharp eye for detail.
 
 ---
 
