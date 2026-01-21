@@ -1,17 +1,92 @@
+# 👋 Hello, I'm Mohammad Saad
 
- Hi 👋, I'm Mohammad Saad<br>🌱 **Currently learning:** Advanced Full Stack concepts, scalable architectures, and better UI/UX practices  <br>👯 **Looking to collaborate on:** Web apps, SaaS products, dashboards, and open-source React / Next.js projects  <br>🤔 **Looking for help with:** Performance optimization, system design, and large-scale backend systems  <br>💬 **Ask me about:** React, Next.js, TypeScript, Tailwind CSS, Node.js, REST APIs, and full-stack development  <br>📫 **How to reach me:**  <br>- Email: saadqureshi479@gmail.com  <br>- LinkedIn: LinkedIn  <br>😄 **Pronouns:** He/Him  <br>⚡ **Fun fact:** I love turning real-world problems into clean, user-friendly products and enjoy writing reusable, scalable code<br>
+### **Full Stack Developer | UI/UX Enthusiast | Problem Solver**
 
+I specialize in building scalable web applications with modern technologies. Passionate about creating clean, efficient code and transforming complex problems into intuitive user experiences.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saadqureshi478) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-saad-892b26223/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saadqureshi479@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohammadSaad479&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MohammadSaad479&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSaad479&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 **About Me**
 
+🎯 **Currently Learning:** Advanced Full Stack concepts, scalable architectures, and better UI/UX practices  
+🤝 **Looking to Collaborate:** Web apps, SaaS products, dashboards, and open-source React/Next.js projects  
+💡 **Seeking Help With:** Performance optimization, system design, and large-scale backend systems  
+💬 **Ask Me About:** React, Next.js, TypeScript, Tailwind CSS, Node.js, REST APIs  
+⚡ **Fun Fact:** I love turning real-world problems into clean, user-friendly products and enjoy writing reusable, scalable code
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ **Tech Stack**
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Cloud & Deployment**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **Tools & Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=MohammadSaad479&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohammadSaad479&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSaad479&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
+
+</div>
+
+---
+
+## 📫 **Connect With Me**
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-saadqureshi479@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadqureshi479@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Saad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-saad-892b26223/)
+[![Instagram](https://img.shields.io/badge/Instagram-@saadqureshi478-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saadqureshi478)
+
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+![](https://github-profile-trophy.vercel.app/?username=MohammadSaad479&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7)
+
+---
+
+<div align="center">
+  
+### ⚡ **Recent Activity**
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 🎯 **Profile Views**
+![Profile Views](https://komarev.com/ghpvc/?username=MohammadSaad479&color=58a6ff&style=flat)
+
+**Thanks for visiting my profile!** 😊
+
+</div>
