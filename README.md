@@ -2,7 +2,7 @@
 
 # ✨ Mohammad Saad
 
-### **Full Stack Developer | UI/UX Specialist | TypeScript Enthusiast**
+### **Full Stack Developer | UI/UX Specialist | Tech Enthusiast**
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6A82FF&center=true&vCenter=true&width=600&lines=I+build+interactive+web+applications;With+TypeScript,+React,+Next.js;And+a+strong+focus+on+UI+design;Creating+seamless+user+experiences;Driven+by+a+sharp+eye+for+detail" alt="Typing SVG" />
